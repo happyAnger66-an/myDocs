@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../codes/ros2"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
